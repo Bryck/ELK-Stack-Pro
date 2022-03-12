@@ -1,4 +1,4 @@
-# cysec-class
+# Cyber Class
 Files and project from class
 
 
